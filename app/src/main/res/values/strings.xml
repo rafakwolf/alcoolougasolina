@@ -7,4 +7,6 @@
     <string name="hintGasolina">Preço gasolina, ex: 2,97</string>
     <string name="botaoCalcular">Calcular</string>
     <string name="textViewResultado">Resultado</string>
+    <string name="resultadoAlcool">Melhor usar alcool!</string>
+    <string name="resultadoGasolina">Melhor usar gasolina!</string>
 </resources>
