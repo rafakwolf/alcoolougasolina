@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         double resultado = precoAlcool / precoGasolina;
 
-        if (resultado >= 0.7) {
+        if (resultado < 0.7) {
             textResultado.setText(R.string.resultadoAlcool);
         } else {
             textResultado.setText(R.string.resultadoGasolina);
